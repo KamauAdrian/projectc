@@ -21,3 +21,5 @@ Route::get('/', 'PostsController@index');
 //create post
 Route::get('/posts/create', 'PostsController@create')->name('create posts');
 Route::post('/posts/create', 'PostsController@store')->name('create');//save post
+//show post
+Route::get('/{post}', 'PostsController@show');
