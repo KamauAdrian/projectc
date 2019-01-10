@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'env' => env('APP_ENV', 'production'),
+    'env' => env('APP_ENV', 'base64:qVLRgMf42Ezyq+ms16DpDR1+t074Q8oDZKP9XA7lDzA='),
 
     /*
     |--------------------------------------------------------------------------
