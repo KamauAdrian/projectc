@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9220fd1c-8242-465a-9b91-a73933dbb796" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/public/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
-    </list>
+    <list default="true" id="9220fd1c-8242-465a-9b91-a73933dbb796" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -316,15 +313,16 @@
       <option name="presentableId" value="Default" />
       <updated>1546874972507</updated>
       <workItem from="1546874987585" duration="1052000" />
-      <workItem from="1547099008378" duration="1418000" />
+      <workItem from="1547099008378" duration="2161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2470000" />
+    <option name="totallyTimeSpent" value="3213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
