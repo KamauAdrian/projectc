@@ -15,11 +15,11 @@
     <title>My Blog</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="{{url('css/bootstrap.css')}}" rel="stylesheet">
-    <link href="{{url('css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="https://myblogpostproject.herokuapp.com/css/bootstrap.css" rel="stylesheet">
+    <link href="https://myblogpostproject.herokuapp.com/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="{{url('css/blog.css')}}" rel="stylesheet">
+    <link href="https://myblogpostproject.herokuapp.com/css/blog.css" rel="stylesheet">
     {{--<link href="{{url('css/app.css')}}" rel="stylesheet">--}}
 
 </head>
@@ -56,10 +56,10 @@
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="{{url('js/jquery.js')}}"></script>
-<script src="{{url('js/app.js')}}"></script>
+<script src="https://myblogpostproject.herokuapp.com/js/jquery.js"></script>
+<script src="https://myblogpostproject.herokuapp.com/js/app.js"></script>
 
-<script src="{{url('js/bootstrap.js')}}"></script>
+<script src="https://myblogpostproject.herokuapp.com/js/bootstrap.js"></script>
 
 </body>
 </html>
