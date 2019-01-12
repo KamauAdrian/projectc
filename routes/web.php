@@ -21,5 +21,13 @@ Route::get('/', 'PostsController@index');
 //create post
 Route::get('/posts/create', 'PostsController@create')->name('create posts');
 Route::post('/posts/create', 'PostsController@store')->name('create');//save post
+
 //show post
 Route::get('/{post}', 'PostsController@show');
+
+//edit a post
+Route::get('/{post}/edit','PostsController@edit')->name('edit');
+Route::put('/edit/{post}','PostsController@update');
+
+//add a comment
+Route::post('/{post}/comments','CommentsController@store');

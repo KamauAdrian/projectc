@@ -16,10 +16,13 @@
 
     <!-- Bootstrap core CSS -->
     <link href="https://myblogpostproject.herokuapp.com/css/bootstrap.css" rel="stylesheet">
+    <link href="{{url('css/bootstrap.css')}}" rel="stylesheet">
+    <link href="{{url('css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="https://myblogpostproject.herokuapp.com/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="https://myblogpostproject.herokuapp.com/css/blog.css" rel="stylesheet">
+    <link href="{{url('css/blog.css')}}" rel="stylesheet">
     {{--<link href="{{url('css/app.css')}}" rel="stylesheet">--}}
 
 </head>
